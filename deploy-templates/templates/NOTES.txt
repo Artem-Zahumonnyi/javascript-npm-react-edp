@@ -1,0 +1,1 @@
+1. Application javascript-npm-react-edp has been successfully deployed!!
